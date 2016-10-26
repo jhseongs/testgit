@@ -8,10 +8,7 @@
 
 ***
 
-* 성지현
-
-{tab} > **성지현**
-
+* **성지현**
 * _성_지현
 
 ***
@@ -29,4 +26,4 @@
 [다이퀘스트](http://www.diquest.com)
 
 <jhseong@diquest.com>
-
+[![e-mail](https://img.shields.io/badge/email-yo@yevgnenll.me-blue.svg)](mailto:jhseong@diquest.com)
