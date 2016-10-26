@@ -26,4 +26,5 @@
 [다이퀘스트](http://www.diquest.com)
 
 <jhseong@diquest.com>
-[![e-mail](https://img.shields.io/badge/email-yo@yevgnenll.me-blue.svg)](mailto:jhseong@diquest.com)
+
+[![e-mail](https://img.shields.io/badge/email-jhseong@diquest.com-blue.svg)](mailto:jhseong@diquest.com)
